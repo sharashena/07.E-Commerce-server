@@ -106,7 +106,7 @@ app.use(
 );
 app.use(
   cors({
-    origin: "*",
+    origin: "https://e-commerce-5jlr.onrender.com",
     credentials: true,
   })
 );
